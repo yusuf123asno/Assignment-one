@@ -1,0 +1,113 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("./flaticon.ttf?15648af4c12b3fcf9df36de5c74c9559") format("truetype"),
+url("./flaticon.woff?15648af4c12b3fcf9df36de5c74c9559") format("woff"),
+url("./flaticon.woff2?15648af4c12b3fcf9df36de5c74c9559") format("woff2"),
+url("./flaticon.eot?15648af4c12b3fcf9df36de5c74c9559#iefix") format("embedded-opentype"),
+url("./flaticon.svg?15648af4c12b3fcf9df36de5c74c9559#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-laboratory:before {
+    content: "\f101";
+}
+.flaticon-microscope:before {
+    content: "\f102";
+}
+.flaticon-biological:before {
+    content: "\f103";
+}
+.flaticon-test:before {
+    content: "\f104";
+}
+.flaticon-heart:before {
+    content: "\f105";
+}
+.flaticon-check:before {
+    content: "\f106";
+}
+.flaticon-menu-of-three-lines:before {
+    content: "\f107";
+}
+.flaticon-envelope:before {
+    content: "\f108";
+}
+.flaticon-call:before {
+    content: "\f109";
+}
+.flaticon-clock:before {
+    content: "\f10a";
+}
+.flaticon-loupe:before {
+    content: "\f10b";
+}
+.flaticon-checked:before {
+    content: "\f10c";
+}
+.flaticon-lungs:before {
+    content: "\f10d";
+}
+.flaticon-user:before {
+    content: "\f10e";
+}
+.flaticon-telephone:before {
+    content: "\f10f";
+}
+.flaticon-business-calendar:before {
+    content: "\f110";
+}
+.flaticon-locator:before {
+    content: "\f111";
+}
+.flaticon-double-right-arrows-angles:before {
+    content: "\f112";
+}
+.flaticon-facebook-app-symbol:before {
+    content: "\f113";
+}
+.flaticon-twitter:before {
+    content: "\f114";
+}
+.flaticon-pinterest:before {
+    content: "\f115";
+}
+.flaticon-linkedin:before {
+    content: "\f116";
+}
+.flaticon-instagram:before {
+    content: "\f117";
+}
+.flaticon-lab-tool:before {
+    content: "\f118";
+}
+.flaticon-sugar-blood-level:before {
+    content: "\f119";
+}
+.flaticon-right-arrow:before {
+    content: "\f11a";
+}
+.flaticon-left-arrow:before {
+    content: "\f11b";
+}
+.flaticon-up-arrow:before {
+    content: "\f11c";
+}
+.flaticon-down-arrow-1:before {
+    content: "\f11d";
+}
+.flaticon-email:before {
+    content: "\f11e";
+}
+.flaticon-pin:before {
+    content: "\f11f";
+}

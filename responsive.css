@@ -1,0 +1,330 @@
+
+
+@media all and (max-width:1199px) {
+    .project-item {
+        margin-bottom: 2rem;
+    }
+}
+
+@media all and (max-width:1160px) {
+    .carousel-caption {
+        bottom: 10rem;
+    }
+    .banner-bottom-service {
+        margin-top: -150px;
+    }
+    .bb-service-item {
+        padding: .5rem;
+        margin-bottom: 20px;
+    
+    }
+    .carousel-caption h1 {
+        font-size: 2.8rem;
+    }
+    .bb-service-item p {
+        width: 85%;
+        margin: auto;
+    }
+    html{
+        font-size: 94%;
+    }
+}
+@media all and (max-width:991px) {
+    .logo img{
+        max-width: 40%;
+    }
+    html{
+        font-size: 85%;
+    }
+    .next-1::after {
+        right: -15px;
+    }
+    .custom-shape-divider-bottom-162{
+        visibility: hidden;
+        opacity: 0;
+    }
+    .custom-shape-divider-bottom-1625676921 svg{
+        visibility: hidden;
+        opacity: 0;
+    }
+    .banner-bottom-service {
+        margin-top: 30px;
+    }
+    .carousel-caption {
+        bottom: 5rem;
+    }
+    .slider-btn {
+        margin-top: 15px;
+    }
+    .default-btn {
+        font-size: 16px;
+        padding-left: 23px;
+        padding-right: 23px;
+        padding-top: 12px;
+        padding-bottom: 12px;
+    }
+    .next-1::after {
+        font-size: 1.7rem;
+        height: 40px;
+        width: 40px;
+        line-height: 40px;
+    }
+    .previous-1::after {
+        font-size: 1.7rem;
+        height: 40px;
+        width: 40px;
+        line-height: 40px;
+    }
+    .about-content h3 {
+        font-size: 1.8rem;
+        margin-top: .5rem;
+        margin-bottom: .5rem;
+    }
+    .about-content p {
+        margin-bottom: .6rem;
+        font-size: .9rem;
+    }
+    .about-content .about-list-item li {
+        font-size: .9rem;
+        margin-bottom: .8rem;
+    }
+    .default-btn {
+        font-size: 1rem;
+        padding: .9rem 1.5rem;
+    }
+    .about-image img:nth-child(2) {
+       width: 70%;
+    }
+    .services-item .icon i {
+        height: 3.5rem;
+        width: 3.5rem;
+        line-height: 3.5rem;
+        font-size: 1.5rem;
+    }
+    .Scientist-img img {
+        width: 90%;
+        
+    }
+    .Scientist-item{
+        margin-bottom: 3rem;
+        text-align: center;
+    }
+    .count-item {
+        margin-bottom: 2rem;
+    }
+    .img-part-item{
+        margin-bottom: 3rem;
+    }
+    .footer-item img {
+        width: 35%;
+    }
+    .footer-item2{
+        margin-right: 100px;
+    }
+    .navbar-nav li{
+        line-height: 0;
+    }
+    .header-bottom ul li {
+        padding: 20px 0;
+    }
+    
+    .header-bottom ul li ul {
+        top: 0;
+        width: 170px;
+        left: 100%;
+    }
+    .header-bottom ul {
+        position: absolute;
+        left: 13%;
+        top: 100%;
+        background: rgb(255, 255, 255);
+        width: 150px;
+        transition: .5s;
+    }
+    .header-bottom ul li ul{
+        top: 0;
+    }
+    .header-bottom ul li a i {
+        right: 10px;
+        top: 11px;
+    }
+    .header-bottom ul li:hover > ul {
+        visibility: visible;
+        opacity: 1;
+        top: 0;
+    }
+    .icon-2{
+        display: none;
+    }
+    .icon-1{
+        display: none;
+    }
+}
+
+@media all and (max-width:810px) {
+    .carousel-caption {
+        bottom: 3rem;
+    }
+    .carousel-caption h1 {
+        font-size: 2rem;
+    }
+    html{
+        font-size: 78%;
+    }
+    .about-image img:nth-child(2) {
+        width: 60%;
+     }
+  
+}
+
+
+
+@media all and (max-width:767px) {
+    .top-header .top-left {
+        width: 100%;
+        text-align: center;
+    }
+    .top-header .top-right {
+       width: 100%;
+       text-align: center;
+    }
+    .default-btn {
+        font-size: 13px;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-top: 8px;
+        padding-bottom: 8px;
+    }
+    .next-1::after {
+        font-size: 1.3rem;
+        height: 30px;
+        width: 30px;
+        line-height: 30px;
+    }
+    .previous-1::after {
+        font-size: 1.3rem;
+        height: 30px;
+        width: 30px;
+        line-height: 30px;
+    }
+    html{
+        font-size: 71%;
+    }
+    .about-image img:nth-child(2) {
+        width: 55%;
+     }
+     .bb-service-item {
+        padding: 2.5rem;
+    }
+    .services-item {
+        padding: 4.9rem 0.9rem 4.9rem 6.2rem;
+    }
+    .services-item .icon {
+        top: 54px;
+    }
+    .project-img a img {
+        width: 100%;
+    }
+    .news-item {
+        margin-bottom: 2.5rem;
+    }
+    .footer-item img {
+        width: 40%;
+    }
+   
+}
+
+@media all and (max-width:700px) {
+    .carousel-caption {
+        bottom: 2rem;
+    }
+    .carousel-caption h1 {
+        font-size: 1.3rem;
+        margin-bottom: 10px;
+    }
+    .carousel-caption p{
+        font-size: .8rem;
+        margin-bottom: 0;
+    }
+    .logo img{
+        max-width: 33%;
+    }
+    html{
+        font-size: 68%;
+    }
+    .testimonial-inner:hover .c-icon-1 i{
+        left: 0;
+    }
+    .testimonial-inner:hover .c-icon-2 i{
+        right: 0;
+    }
+    
+}
+
+@media all and (max-width:650px) {
+    .icon p{
+        margin-bottom: .4rem;
+    }
+    .default-btn {
+        padding: 10px;
+        font-size: 14px;
+        margin-bottom: 8px;
+    }
+    .project-img a img {
+        width: 100%;
+    }
+}
+
+@media all and (max-width:575px) {
+    .Scientist-img img {
+        width: 50%;
+    }
+    .footer-item img {
+        width: 20%;
+    }
+    .footer-item2 {
+        margin-right: 330px;
+    }
+    .footer-item p {
+        font-size: 1.3rem;
+        width: 90%;
+    }
+}
+
+@media all and (max-width:540px) {
+    .carousel-caption {
+        bottom: 0;
+    }
+    .carousel-caption h1 {
+        margin-bottom: 5px;
+    }
+    .next-1::after {
+        right: -25px;
+    }
+    .default-btn {
+        padding: 10px;
+        font-size: 10px;
+        margin-bottom: 8px;
+    }
+    .footer-item2 {
+        margin-right: 300px;
+    }
+}
+@media all and (max-width:470px) {
+    .default-btn {
+        padding: 7px;
+        font-size: 9px;
+        margin-bottom: 0px;
+        margin-top: 0;
+    }
+    .carousel-caption p {
+        margin-bottom: 5px;
+        font-size: .7rem;
+    }
+}
+
+@media all and (max-width:430px) {
+    .footer-item2 {
+        margin-right: 190px;
+    }
+}
